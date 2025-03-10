@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay2882
 - 👀 I’m  a data engineer 
-- 🌱 I’m currently doing b.tech in cse
+- 🌱 I've completed b.tech in cse
 - 💞️ I’m looking to collaborate on data science proje
 - 📫 To reach me www.linkedin.com/in/akshay-jain-bb6a90275/
 - 😄 Pronouns: ...
